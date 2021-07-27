@@ -1,0 +1,30 @@
+Omelette: Egg, Cheese, Onion, Ham, BellPepper
+PB and J: Bread, PeanutButter, Jelly
+Sheet Pan Tofu: Tofu, Broccoli, SoySauce, Rice
+Chicken Parmesan: Chicken, Pasta, TomatoSauce, Cheese
+Quesadillas: Tortilla, Cheese, Chicken
+Chocolate Chip Cookies: Butter, Sugar, Egg, Flour, Chocolate
+Sauteed Spinach: Spinach, Onion, Garlic, Butter, SoySauce, Salt
+Fried Rice: Rice, Egg, Carrots, Onions, Garlic, SoySauce, Chicken
+Sandwhich: Bread, Cheese, Ham
+Salad: Lettuce, Tomato, Carrot, Broccoli, Ranch, BellPepper
+Spinach Stuffed Chicken: Chicken, Butter, Spinach, Garlic, Cheese
+Beef Tacos: Tortilla, Beef, Cheese, Lettuce, Tomato, TomatoSauce, Onion
+Madeleine: Butter, Flour, Sugar, Egg, Lemon
+Linguine: Pasta, Tomatoes, Lemon, Garlic, Cheese, Salt
+Breakfast Meal: Egg, Ham, Bread, Jelly
+Grilled Cheese: Bread, Cheese
+Chocolate Peanut Butter Bars: Butter, PeanutButter, Sugar, Chocolate
+Beef and Broccoli: Beef, Broccoli, Onion, SoySauce, Rice
+Chicken Breast: Chicken, Garlic, Salt, Cheese
+Rice and Egg: Rice, Egg, Salt
+Chicken Fajitas: Lemon, Chicken, BellPepper, Tortilla, Salt. Onion
+Garlic Spaghetti: Garlic, Spaghetti, Cheese, Butter, Salt, Lemon
+Chili: Beef, Onion, TomatoSauce, Bean, Garlic, Salt
+Stuffed Peppers: Beef, BellPepper, Cheese, Rice
+Homemade Flatbread Pizza: Flour, Salt, TomatoSauce, Cheese
+Chicken Lettuce Wraps: Chicken, Lettuce, SoySauce, Onion, BellPepper, Garlic
+Beef Tostadas: Tortilla, Beef, Bean, Tomato, Cheese
+Lentil Stew: Lentil, Tomato, Onion, Garlic, Butter
+Ratatouille: Onion, BellPepper, Zucchini, Garlic, Tomato, Rice
+Roasted Potatoes: Potato, Salt, Butter, Tomato
